@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sree0218
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in AI, NLP, CV and GenAI
 - 📫 reach me -> schoppar@ucsc.edu
 
 <!---
